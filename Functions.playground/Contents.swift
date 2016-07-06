@@ -1,5 +1,5 @@
 func printAge(name: String) {
-    print("\(name) is 29")
+    print("\(name) is 29.")
 }
 
 printAge("Adam")
